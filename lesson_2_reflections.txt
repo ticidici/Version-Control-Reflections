@@ -6,3 +6,9 @@
 - By staging only the files that relate to the logical change, leaving the others for a future commit.
 + What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 - Situations when you want to try something out, but you want to keep a main functional version in the mean time.
++ How do the diagrams help you visualize the branch structure?
+- By visually telling you where various branches diverged.
++ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- Having all the features of both branches together. We represent it as two branches merging because the new branch keeps the commit history of both branches.
++ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- If there are not conflicts it is pretty fast and convenient, but otherwise you better fix the conflicts manually. 
