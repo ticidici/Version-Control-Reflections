@@ -9,3 +9,5 @@
 - I would branch to add experimental features to a project without messing the production branch.
 + What is the benefit of having a copy of the last known state of the remote stored locally?
 - Being able to solve conflicts between your local and the remote repositories.
++ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- Probably by using dropbox and comunicationg a lot. It would be hard to keep track of the latest version and be sure no feature has been left behind.
