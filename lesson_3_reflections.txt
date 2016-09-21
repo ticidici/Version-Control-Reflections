@@ -11,3 +11,5 @@
 - Being able to solve conflicts between your local and the remote repositories.
 + How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 - Probably by using dropbox and comunicationg a lot. It would be hard to keep track of the latest version and be sure no feature has been left behind.
++ When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- I'd make changes in a separate branch if I'm not the admin of the github repo and I want to contribute always by pull request. This way it can be reviewed first without messing the master branch up, but it's also slower.
