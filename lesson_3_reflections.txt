@@ -6,4 +6,6 @@
 - Fork copies a github repository into your github account. Clone copies a repository from github to local. Branch creates a new label in the repository, that may point to a different commit than your previous labels.
 - I would use fork to experiment with someone else's repository if I don't have access to it, and maybe propose changes later.
 - I'd use clone for getting a repository on my local machine, in case I started the project there, or me or some collaborator started it from another machine and pushed it to github.
-- I would branch to add experimental features to a project without messing the production branch. 
+- I would branch to add experimental features to a project without messing the production branch.
++ What is the benefit of having a copy of the last known state of the remote stored locally?
+- Being able to solve conflicts between your local and the remote repositories.
